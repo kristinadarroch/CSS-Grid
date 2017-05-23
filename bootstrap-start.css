@@ -1,0 +1,16 @@
+body{
+  background-image: url(images/treetrunkblur.jpg);
+}
+.col-md-5{
+  color: #ffff;
+}
+.col-md-12{
+  color: #ffff;
+}
+h1{
+  text-indent: 10%;
+}
+.bg-2 {
+      background-color: #724f61; /* Dark Blue */
+      color: #ffffff;
+  }
