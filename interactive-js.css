@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+ul{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  list-style: none;
+  background-color: #b9ceac;
+  font-family: 'Montserrat', sans-serif;
+  text-transform: uppercase;
+  padding: 30px;
+}
+li a {
+  text-decoration: none;
+  color: black;
+}
+
+a:hover{
+  background-color: #cccccc;
+  padding: 30px;
+}
+h1{
+  font-family: 'Montserrat', sans-serif;
+  text-transform: uppercase;
+  color: #a17d62;
+}
