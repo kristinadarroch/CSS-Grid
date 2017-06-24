@@ -69,7 +69,7 @@ function getItem() {
 //requires the id of the div to update, and the new contents.
 
 function updateElement() {
-  
+
 }
 
 //updateButton: sets the onclick event for a button with the id of the item it chooses
